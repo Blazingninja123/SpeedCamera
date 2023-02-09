@@ -1,0 +1,15 @@
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.csproj.AssemblyReference.cache
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.AssemblyInfoInputs.cache
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.AssemblyInfo.cs
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.csproj.CoreCompileInputs.cache
+C:\Users\18322\Desktop\C#\Speed Camera\bin\Debug\net6.0\Speed Camera.exe
+C:\Users\18322\Desktop\C#\Speed Camera\bin\Debug\net6.0\Speed Camera.deps.json
+C:\Users\18322\Desktop\C#\Speed Camera\bin\Debug\net6.0\Speed Camera.runtimeconfig.json
+C:\Users\18322\Desktop\C#\Speed Camera\bin\Debug\net6.0\Speed Camera.dll
+C:\Users\18322\Desktop\C#\Speed Camera\bin\Debug\net6.0\Speed Camera.pdb
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.dll
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\refint\Speed Camera.dll
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.pdb
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\Speed Camera.genruntimeconfig.cache
+C:\Users\18322\Desktop\C#\Speed Camera\obj\Debug\net6.0\ref\Speed Camera.dll
