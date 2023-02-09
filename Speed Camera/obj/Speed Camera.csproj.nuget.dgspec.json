@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\18322\\Desktop\\C#\\Speed Camera\\Speed Camera.csproj": {}
+    "C:\\Users\\18322\\Desktop\\C#\\SpeedCamera\\Speed Camera\\Speed Camera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\18322\\Desktop\\C#\\Speed Camera\\Speed Camera.csproj": {
+    "C:\\Users\\18322\\Desktop\\C#\\SpeedCamera\\Speed Camera\\Speed Camera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18322\\Desktop\\C#\\Speed Camera\\Speed Camera.csproj",
+        "projectUniqueName": "C:\\Users\\18322\\Desktop\\C#\\SpeedCamera\\Speed Camera\\Speed Camera.csproj",
         "projectName": "Speed Camera",
-        "projectPath": "C:\\Users\\18322\\Desktop\\C#\\Speed Camera\\Speed Camera.csproj",
+        "projectPath": "C:\\Users\\18322\\Desktop\\C#\\SpeedCamera\\Speed Camera\\Speed Camera.csproj",
         "packagesPath": "C:\\Users\\18322\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18322\\Desktop\\C#\\Speed Camera\\obj\\",
+        "outputPath": "C:\\Users\\18322\\Desktop\\C#\\SpeedCamera\\Speed Camera\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
